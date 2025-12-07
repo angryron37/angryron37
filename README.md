@@ -62,6 +62,7 @@ I'm **Rohan Patil**, a cybersecurity enthusiast and developer from India who lov
 ## 📊 Stats & Progress
 
 <div align="center">
+<img align="center" src="https://raw.githubusercontent.com/Finestwork/Finestwork/output/snake.svg" alt="Snake animation" />
 
 <!-- 🔥 GitHub Streak (Working) -->
 <img src="https://camo.githubusercontent.com/6583fff64d807a035579a5c838a35d4bdfb62522f44f8d9441f3ab3aed73bb89/68747470733a2f2f73747265616b2d73746174732e64656d6f6c61622e636f6d3f757365723d616e677279726f6e3337267468656d653d746f6b796f6e69676874" height="180"/>
