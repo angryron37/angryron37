@@ -12,7 +12,7 @@ I'm **Rohan Patil**, a cybersecurity enthusiast and developer from India who lov
 
 ---
 
-## 🧠 Tech Stack
+## 🧠 Tech Stack 
 
 #### 🔤 Languages  
 [![Python](https://img.shields.io/badge/Python-3776AB?style=for-the-badge&logo=python&logoColor=white)](https://github.com/angryron37)
@@ -92,7 +92,7 @@ I'm **Rohan Patil**, a cybersecurity enthusiast and developer from India who lov
 
 ---
 
-## 🔗 Connect With Me  
+## 🔗 Connect With Me  <img src="http://i.imgur.com/Cj4rMrS.gif" height="40" alt="Swimming Octocat" title="Games on GitHub">
 [![LinkedIn](https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/rohanpatil37)
 
 ---
