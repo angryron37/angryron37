@@ -82,6 +82,10 @@ I'm **Rohan Patil**, a cybersecurity enthusiast and developer from India who lov
 <!-- 📈 Activity Graph -->
 <img src="https://github-readme-activity-graph.vercel.app/graph?username=angryron37&theme=tokyo-night&hide_border=true" height="240"/>
 
+
+
+<img align="center" src="https://raw.githubusercontent.com/Finestwork/Finestwork/output/snake.svg" alt="Snake animation" />
+
 </div>
 
 
