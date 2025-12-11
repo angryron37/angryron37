@@ -76,6 +76,7 @@ I'm **Rohan Patil**, a cybersecurity enthusiast and developer from India who lov
 <!-- 🏆 Trophy -->
 <img src="https://github-profile-trophy.vercel.app/?username=angryron37&theme=tokyonight&no-frame=true&row=1&column=3" height="140"/>
 
+
 <br><br>
 
 <!-- 📈 Activity Graph -->
