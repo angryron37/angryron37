@@ -84,7 +84,7 @@ I'm **Rohan Patil**, a cybersecurity enthusiast and developer from India who lov
 
 
 
-<img align="center" src="https://raw.githubusercontent.com/Finestwork/Finestwork/output/snake.svg" alt="Snake animation" />
+<!-- <img align="center" src="https://raw.githubusercontent.com/Finestwork/Finestwork/output/snake.svg" alt="Snake animation" /> -->
 
 </div>
 
